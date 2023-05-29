@@ -1,0 +1,5 @@
+https://docs.djangoproject.com/en/3.2/ref/models/fields/#field-types
+
+Django admin, you should check Django's documentation: 
+https://docs.djangoproject.com/en/3.2/ref/contrib/admin/
+
